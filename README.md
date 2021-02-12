@@ -1,2 +1,4 @@
 # agendaPersonal
-Aplicación para gestionar una agenda de contactos personal usando ObjectDB y JavaFX.
+Para hacerlo funcionar, importa el zip a tu IDE.
+
+Video explicativo de la tarea:
